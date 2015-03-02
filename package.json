@@ -42,5 +42,12 @@
     "recast": "~0.8.0",
     "testem": "^0.6.17",
     "yuidocjs": "^0.3.50"
-  }
+  },
+  "ember-addon": {
+  },
+  "keywords": [
+    "ember-addon",
+    "list view",
+    "list"
+  ]
 }
